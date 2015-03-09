@@ -1,0 +1,3 @@
+#Project Initiation
+##Formulate Vision and Scope agreement with clients
+-[ ]Agree on client feedback cycles
